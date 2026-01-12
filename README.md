@@ -134,7 +134,7 @@ MIT License - feel free to use this for your projects
 
 ## 👤 Author
 
-**Pavan**
+**Harshit Katragadda**
 - Machine Learning Engineer at UNIFY
 - GitHub: [harshitkatragadda25](https://github.com/harshitkatragadda25)
 
