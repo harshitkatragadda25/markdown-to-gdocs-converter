@@ -22,8 +22,7 @@ A Python-based solution that converts markdown meeting notes into beautifully fo
 #### Option 1: Run in Google Colab (Recommended)
 
 1. **Open the notebook directly in Colab**
-   - Click this badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/markdown-to-gdocs-converter/blob/main/markdown_to_gdocs.ipynb)
-   - Replace `YOUR_USERNAME` with your GitHub username
+   - Click this badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harshitkatragadda25/markdown-to-gdocs-converter/blob/main/markdown_to_gdocs.ipynb)
 
 2. **Run the notebook**
    - Click **"Runtime"** → **"Run all"**
